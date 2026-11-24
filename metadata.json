@@ -1,0 +1,6 @@
+{
+  "name": "Black Bast DS",
+  "description": "Offline 8x8 block puzzle game with Classic endless mode and Adventure gem-collecting stages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

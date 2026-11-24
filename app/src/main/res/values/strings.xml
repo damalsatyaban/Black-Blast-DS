@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Black Bast DS</string>
+    <string name="best_score_desc">Best score</string>
+    <string name="settings_desc">Settings</string>
+    <string name="mode_classic">Classic</string>
+    <string name="mode_adventure">Adventure</string>
+    <string name="game_over_title">Game Over</string>
+    <string name="level_complete_title">Stage Clear!</string>
+    <string name="play_again">Play Again</string>
+    <string name="next_stage">Next Stage</string>
+    <string name="new_best_badge">NEW BEST!</string>
+    <string name="revive_board">Clear 3x3 Center</string>
+</resources>
